@@ -1,0 +1,6 @@
+[package]
+name = "sentry-futures"
+version = "0.1.0"
+authors = ["SpongyBacon <spongybacon@hotmail.co.uk>"]
+
+[dependencies]
